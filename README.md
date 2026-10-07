@@ -4,4 +4,4 @@
 
  ## 运行方式
  pip install requests beautifulsoup4
- python req3.py
+ python req4.py
